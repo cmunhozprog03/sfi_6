@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45eafb76-72a2-43bf-8c5c-47a59e7541d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/Admin/admin.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/admin.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-    </list>
+    <list default="true" id="45eafb76-72a2-43bf-8c5c-47a59e7541d5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -188,6 +183,7 @@
       <workItem from="1599600113058" duration="370000" />
       <workItem from="1599600773861" duration="312000" />
       <workItem from="1599659976769" duration="9000" />
+      <workItem from="1599671343500" duration="191000" />
     </task>
     <task id="LOCAL-00001" summary="Alter Create Project">
       <created>1599481864531</created>
@@ -217,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599528127112</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit 09-09-2020">
+      <created>1599671434000</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599671434000</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,16 +244,17 @@
     <MESSAGE value="Create Tables" />
     <MESSAGE value="Create Controllers" />
     <MESSAGE value="Teste git" />
-    <option name="LAST_COMMIT_MESSAGE" value="Teste git" />
+    <MESSAGE value="commit 09-09-2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 09-09-2020" />
   </component>
   <component name="WindowStateProjectService">
     <state x="493" y="248" key="#Composer" timestamp="1599399678299">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="493" y="248" key="#Composer/0.0.1366.738@0.0.1366.738" timestamp="1599399678299" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1599528136400">
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1599671441203">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1599528136400" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1599671441203" />
   </component>
 </project>
