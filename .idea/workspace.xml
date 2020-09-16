@@ -19,7 +19,33 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45eafb76-72a2-43bf-8c5c-47a59e7541d5" name="Default Changelist" comment="" />
+    <list default="true" id="45eafb76-72a2-43bf-8c5c-47a59e7541d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Categories_Products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Complements_Items.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Complements_Products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Grid.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Grids_Products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/AdminController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/More_Products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/More_Products_Products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2020_09_16_020638_create_complements_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2020_09_16_021316_create_categories__products_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2020_09_16_021437_create_grids_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2020_09_16_021806_create_grids__products_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2020_09_16_021826_create_complements__products_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2020_09_16_172823_create_more__products__products_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2020_09_16_172853_create_more__products_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Category_Product.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Complement.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/CategoryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/CategoryController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/SectorController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/SectorController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_09_07_113913_create_sectors_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_09_07_114057_create_categories_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_09_07_114057_create_categories_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_09_07_114114_create_products_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_09_07_114114_create_products_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_09_07_164947_create_category_product_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_09_07_170624_create_sector_category_table.php" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,7 +167,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -153,6 +179,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projetos\sfi_6" />
       <recent name="C:\projetos\sfi_6\app" />
     </key>
   </component>
@@ -184,6 +211,12 @@
       <workItem from="1599600773861" duration="312000" />
       <workItem from="1599659976769" duration="9000" />
       <workItem from="1599671343500" duration="191000" />
+      <workItem from="1599682500682" duration="1396000" />
+      <workItem from="1599684331249" duration="90000" />
+      <workItem from="1599746569486" duration="936000" />
+      <workItem from="1600184022104" duration="3528000" />
+      <workItem from="1600218022262" duration="4804000" />
+      <workItem from="1600255415597" duration="5754000" />
     </task>
     <task id="LOCAL-00001" summary="Alter Create Project">
       <created>1599481864531</created>

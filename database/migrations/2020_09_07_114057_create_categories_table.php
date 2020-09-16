@@ -16,16 +16,20 @@ class CreateCategoriesTable extends Migration
         Schema::create('categories', function (Blueprint $table) {
             $table->bigIncrements('id');
 
+            $table->unsignedBigInteger('id_dad');
+
 
             $table->string('name');
             $table->string('description');
             $table->text('body')->nullable();
-            $table->string('position');
-            $table->boolean('condition');
-            $table->string('image')->nullable();
+            $table->integer('position');
+            $table->enum('condition', ['Ativo', 'Pausado']);
+            $table->enum('type', ['Setor', 'Categoria']);
+            $table->string('image');
             $table->string('slug');
 
             $table->timestamps();
+
 
 
         });
